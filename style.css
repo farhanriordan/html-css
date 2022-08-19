@@ -1,0 +1,36 @@
+h1 {
+  padding-top: 10px;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+}
+
+img {
+  margin: 50px;
+}
+
+.con {
+  display: flex;
+}
+
+.tabel {
+  margin: 40px 50px;
+}
+
+table {
+  font-weight: bolder;
+  font-size: 30px;
+  border: 2px;
+}
+
+.form {
+  border-color: rgb(208, 12, 12);
+  border-style: dotted;
+  padding: 30px;
+  background-color: white;
+}
+
+.background {
+  margin: 50px;
+  background-color: antiquewhite;
+}
